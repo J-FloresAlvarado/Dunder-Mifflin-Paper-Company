@@ -1,0 +1,226 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Special Elite', cursive;
+    text-shadow: 6px 6px 8px #3366cc;
+
+}
+
+html {
+    border: 45px groove #3366cc;
+}
+
+h3 {
+    color: #00264d;
+    font-family: 'Amatic SC', cursive;
+    font-size: 29px;
+    font-weight: bold;
+    background-color: #ffffff;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Vast Shadow', cursive;
+    background-color: #ffffff;
+    color: #336699;
+    text-align: center;
+}
+
+li {
+    font-size: 15px;
+    font-family: 'Vollkorn SC', serif;
+    color: #2175ea;
+   
+
+}
+
+h2:hover {
+    background-color: #698caf;
+}
+
+body {
+    background-image: url("https://media.istockphoto.com/photos/newspaper-with-old-grunge-vintage-unreadable-paper-texture-background-picture-id1084659484?k=6&m=1084659484&s=612x612&w=0&h=v0Dlo9A_9P1i7sDti7jriXvE_NWr0MeIIFru4D_t4zM=");
+ 
+}
+
+
+
+.Title {
+    display: flex;
+    justify-content: center;
+    border-style: outset;
+    border: 5px outset #3077C8;
+    border-width: 5px;
+    margin: 50px;
+    padding: 10px;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 35px;
+}
+
+.image1 {
+    border-style: outset;
+    border: 5px outset #3077C8;
+    padding: 5px;
+    margin: 10px;
+    height: 420px;
+    border-radius: 200px;
+
+}
+
+.AboutMe {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-content: space-between;
+    display: flex;
+}
+
+.Status {
+    text-align: left;
+    border-style: outset;
+    border: #3077C8 5px outset;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 5px;
+    background-color: #ffffff;
+   
+}
+
+.links {
+    border: #0652A9 2px outset;
+    background-color: #3077C8;
+    color: white;
+    padding: 15px 32px;
+    margin: 5px;
+    display: inline-block;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 24px;
+
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+
+}
+
+button:hover {
+    background-color: #99ccff;
+}
+
+.image {
+    width: 400px;
+    height: 300px;
+
+}
+
+.posts {
+    display: flex;
+    Justify-content: center;
+
+}
+
+.quotes {
+    border: #004080 10px ridge;
+    padding: 10px;
+    margin: 10px;
+
+
+}
+
+.youngscott {
+    border: #8cbbfd 10px ridge;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Boss {
+    border: #004080 10px ridge;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Posts {
+    display: flex;
+    justify-content: center;
+}
+
+.michael {
+    border: #8cbbfd 10px ridge;
+    padding: 10px;
+    margin: 10px;
+}
+
+.basketball {
+    border: #004080 10px ridge;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Jim {
+    border: #8cbbfd 10px ridge;
+    padding: 10px;
+    margin: 10px;
+}
+
+.office {
+    width: 500px;
+    height: 300px;
+}
+
+.theoffice {
+    border: #004080 10px ridge;
+    padding: 10px;
+    margin: 10px;
+}
+
+.God {
+    border: #8cbbfd 10px ridge;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Toby {
+    border: #004080 10px ridge;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Friends {
+    Display: flex;
+    Justify-content: center;
+}
+
+.Profile {
+    width: 273px;
+    height: 364px;
+}
+
+.Halpert {
+    text-align: center;
+    border: #2175ea 10px double;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Pam {
+    text-align: center;
+    border: #8cbbfd 10px double;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Dwight {
+    text-align: center;
+    border: #2175ea 10px double;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Ryan {
+    text-align: center;
+    border: #8cbbfd 10px double;
+    padding: 10px;
+    margin: 10px;
+
+}
